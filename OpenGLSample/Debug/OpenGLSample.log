@@ -1,0 +1,36 @@
+﻿  DirectLight.cpp
+C:\Users\mgagu\CompletedWork\CS330-CompGraphic&Visualization\CS330-7.1-Project\CS330-7.1-MichaelGagujas\1-3DProject\OpenGLSample\Shader.h(57,34): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'DirectLight.cpp')
+  
+  LightManager.cpp
+C:\Users\mgagu\CompletedWork\CS330-CompGraphic&Visualization\CS330-7.1-Project\CS330-7.1-MichaelGagujas\1-3DProject\OpenGLSample\Shader.h(57,34): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'LightManager.cpp')
+  
+C:\Users\mgagu\CompletedWork\CS330-CompGraphic&Visualization\CS330-7.1-Project\CS330-7.1-MichaelGagujas\1-3DProject\OpenGLSample\LightManager.cpp(15,23): warning C4018: '<': signed/unsigned mismatch
+  LightSource.cpp
+C:\Users\mgagu\CompletedWork\CS330-CompGraphic&Visualization\CS330-7.1-Project\CS330-7.1-MichaelGagujas\1-3DProject\OpenGLSample\Shader.h(57,34): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'LightSource.cpp')
+  
+  PointLight.cpp
+C:\Users\mgagu\CompletedWork\CS330-CompGraphic&Visualization\CS330-7.1-Project\CS330-7.1-MichaelGagujas\1-3DProject\OpenGLSample\Shader.h(57,34): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'PointLight.cpp')
+  
+  SpotLight.cpp
+C:\Users\mgagu\CompletedWork\CS330-CompGraphic&Visualization\CS330-7.1-Project\CS330-7.1-MichaelGagujas\1-3DProject\OpenGLSample\Shader.h(57,34): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'SpotLight.cpp')
+  
+  main.cpp
+C:\Users\mgagu\CompletedWork\CS330-CompGraphic&Visualization\CS330-7.1-Project\CS330-7.1-MichaelGagujas\1-3DProject\OpenGLSample\shader.h(57,34): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\mgagu\CompletedWork\CS330-CompGraphic&Visualization\CS330-7.1-Project\CS330-7.1-MichaelGagujas\1-3DProject\OpenGLSample\main.cpp(184,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mgagu\CompletedWork\CS330-CompGraphic&Visualization\CS330-7.1-Project\CS330-7.1-MichaelGagujas\1-3DProject\OpenGLSample\main.cpp(430,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mgagu\CompletedWork\CS330-CompGraphic&Visualization\CS330-7.1-Project\CS330-7.1-MichaelGagujas\1-3DProject\OpenGLSample\main.cpp(431,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mgagu\CompletedWork\CS330-CompGraphic&Visualization\CS330-7.1-Project\CS330-7.1-MichaelGagujas\1-3DProject\OpenGLSample\main.cpp(435,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mgagu\CompletedWork\CS330-CompGraphic&Visualization\CS330-7.1-Project\CS330-7.1-MichaelGagujas\1-3DProject\OpenGLSample\main.cpp(436,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mgagu\CompletedWork\CS330-CompGraphic&Visualization\CS330-7.1-Project\CS330-7.1-MichaelGagujas\1-3DProject\OpenGLSample\main.cpp(438,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mgagu\CompletedWork\CS330-CompGraphic&Visualization\CS330-7.1-Project\CS330-7.1-MichaelGagujas\1-3DProject\OpenGLSample\main.cpp(439,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mgagu\CompletedWork\CS330-CompGraphic&Visualization\CS330-7.1-Project\CS330-7.1-MichaelGagujas\1-3DProject\OpenGLSample\main.cpp(448,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLSample.vcxproj -> C:\Users\mgagu\CompletedWork\CS330-CompGraphic&Visualization\CS330-7.1-Project\CS330-7.1-MichaelGagujas\1-3DProject\Debug\OpenGLSample.exe

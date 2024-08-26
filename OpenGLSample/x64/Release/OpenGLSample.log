@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\mgagu\CompletedWork\CS330-CompGraphic&Visualization\CS330-7.1-Project\CS330-7.1-MichaelGagujas\1-3DProject\OpenGLSample\main.cpp(33,10): error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  MeshCreator.cpp
+C:\Users\mgagu\CompletedWork\CS330-CompGraphic&Visualization\CS330-7.1-Project\CS330-7.1-MichaelGagujas\1-3DProject\OpenGLSample\MeshCreator.h(10,10): error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  (compiling source file 'MeshCreator.cpp')
+  
+  SceneObjects.cpp
+C:\Users\mgagu\CompletedWork\CS330-CompGraphic&Visualization\CS330-7.1-Project\CS330-7.1-MichaelGagujas\1-3DProject\OpenGLSample\MeshCreator.h(10,10): error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  (compiling source file 'SceneObjects.cpp')
+  
+  shader.cpp
+C:\Users\mgagu\CompletedWork\CS330-CompGraphic&Visualization\CS330-7.1-Project\CS330-7.1-MichaelGagujas\1-3DProject\OpenGLSample\shader.cpp(13,10): error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Textures.cpp
+C:\Users\mgagu\CompletedWork\CS330-CompGraphic&Visualization\CS330-7.1-Project\CS330-7.1-MichaelGagujas\1-3DProject\OpenGLSample\Textures.h(12,10): error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  (compiling source file 'Textures.cpp')
+  
